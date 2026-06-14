@@ -29,6 +29,8 @@ This project automates the entire detection, enrichment, and containment lifecyc
 
 ## Automated Workflow Detail
 
+**[Architecture](architecture_workflow)**
+
 ### 1. Ingestion and Parsing (`retrieve_detections`)
 The pipeline begins at the Webhook agent node, which listens continuously for raw telemetry events forwarded by LimaCharlie. Upon receiving the JSON payload, the engine runs variable parsing filters to extract critical incident context:
 * Unique Endpoint Identifier (`routing/agent_id`)
