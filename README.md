@@ -56,3 +56,10 @@ When an analyst taps the button from their laptop or mobile device:
 For detailed instructions on how to configure, build, and deploy this project, please refer to our dedicated guide:
 
 **[Deployment and Setup Guide](deployment.md)**
+
+## Project Evidence & Verifications
+1. Project Demo Video
+**[Demonstration Video](demonstration_of_project.mp4)**
+
+2. Isolation of User machine using Tines user_prompt (another way to isolate)
+   **[Isolation via Tines user_prompt](isolate_user_via_tines_user_prompt.mp4)**
