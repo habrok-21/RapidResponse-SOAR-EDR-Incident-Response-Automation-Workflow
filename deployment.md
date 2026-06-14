@@ -15,6 +15,8 @@ Before starting, ensure you have the following accounts and environments set up 
 * **Slack Workspace:** Slack workspace where you have administrative privileges to add webhooks / apps.
 * **API Accounts:** Free accounts for **VirusTotal** and **AbuseIPDB** to retrieve API tokens.
 
+  **[Screenshots of Setup](setup)**
+
 ---
 
 ## Phase 2: Telemetry Collection (EDR Setup)
@@ -285,9 +287,3 @@ LaZagne.exe all
 ping google.com
 ```
 The terminal will spit back a General failure exception message. Attempting to browse any external web space will result in network timeout execution failures, proving the host is completely contained !
-
-• Visual Proof of Concept ~
-
-### We can also isolate User through Tines user_prompt.
-• Visual Proof of Concept ~
-
