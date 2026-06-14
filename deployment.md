@@ -2,6 +2,9 @@
 
 This guide provides an end-to-end walkthrough for deploying the RapidResponse SOAR-EDR Incident Response Automation ecosystem. By the end of this guide, you will have a live environment capable of detecting malicious activities and the telemetry, enriching the threat indicators, alerting analysts via Slack/Email, generating Jira cases, and performing remote host isolation.
 
+### You can build Tines workflow from scratch or just Download from here ~
+**[Download Tines workflow from here](https://github.com/habrok-21/RapidResponse-SOAR-EDR-Incident-Response-Automation-Workflow/tree/main/config)**
+
 ---
 
 ## Phase 1: Prerequisites
