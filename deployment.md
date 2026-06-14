@@ -15,7 +15,7 @@ Before starting, ensure you have the following accounts and environments set up 
 * **Slack Workspace:** Slack workspace where you have administrative privileges to add webhooks / apps.
 * **API Accounts:** Free accounts for **VirusTotal** and **AbuseIPDB** to retrieve API tokens.
 
-  **[Screenshots of Setup](setup)**
+  **[Screenshots of Setup](https://github.com/habrok-21/RapidResponse-SOAR-EDR-Incident-Response-Automation-Workflow/tree/main/project_evidence_verifications/setup)**
 
 ---
 
